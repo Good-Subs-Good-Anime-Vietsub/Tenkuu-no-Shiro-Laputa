@@ -14,17 +14,28 @@ subs {
     readProperties("sub.properties")
     episodes(getList("episodes"))
 
+    merge {
+        from(get("dialogue")) {
+            incrementLayer(10)
+        }
+        from(getList("TS"))
+
+        includeExtraData(false)
+        includeProjectGarbage(false)
+    }
+
+
     mux {
         title(get("title"))
 
-        from(get("raws")) {
+        from(get("raw")) {
             video {
-                name("")
+                name("BDRip by GOA")
                 lang("jpn")
                 default(true)
             }
-            audio {
-                name("FLAC 2.0")
+            audio(0) {
+                name("DTS 2.0")
                 lang("jpn")
                 default(true)
             }
@@ -36,7 +47,7 @@ subs {
             }
         }
 
-        from(get("subs")) {
+        from(merge.item()) {
             tracks {
                 name(get("group"))
                 lang("vie")
