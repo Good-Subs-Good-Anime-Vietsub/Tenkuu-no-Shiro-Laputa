@@ -1,0 +1,55 @@
+name: Merge subtitles
+
+on:
+  push:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'which tag to upload to'
+        default: ''
+
+env:
+  show: (1986) Tenkuu no Shiro Laputa
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        episodes:
+        - "movie"
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up JDK 11
+      uses: actions/setup-java@v3
+      with:
+        java-version: '11'
+        distribution: 'zulu'
+        cache: gradle
+    - name: Merge subtitle
+      run: ./gradlew merge.${{matrix.episodes}}
+    - name: Move merged subtitle
+      run: mv build/merge.${{matrix.episodes}}.default.ass fonts
+    - name: Upload
+      uses: actions/upload-artifact@v3
+      with:
+        name: ${{env.show}}
+        path: fonts/*
+    
+    - name: Compress artifact for release
+      if: github.event_name == 'workflow_dispatch' && github.event.inputs.tag != ''
+      run: |
+        cd fonts
+        7za a -t7z -mx=7 ../${{env.show}}-${{github.event.inputs.tag}}.7z *
+
+    - name: Release
+      uses: softprops/action-gh-release@v1
+      if: github.event_name == 'workflow_dispatch' && github.event.inputs.tag != ''
+      with:
+        tag_name: ${{ github.event.inputs.tag }}
+        files: ${{env.show}}-${{github.event.inputs.tag}}.7z
+        fail_on_unmatched_files: true
+        generate_release_notes: false
+        prerelease: true
