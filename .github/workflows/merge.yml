@@ -8,6 +8,9 @@ on:
         description: 'which tag to upload to'
         default: ''
 
+permissions:
+  contents: write
+
 env:
   show: (1986) Tenkuu no Shiro Laputa
 
