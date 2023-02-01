@@ -19,8 +19,8 @@ Video File: ../../../[RAW]/(1986) Laputa.Castle.in.the.Sky.BluRay.1080p.HEVC.10b
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 1165
-Active Line: 1181
+Scroll Position: 764
+Active Line: 801
 Video Position: 164111
 
 [V4+ Styles]
@@ -177,7 +177,7 @@ Dialogue: 12,0:17:34.32,0:17:36.45,Main,,0,0,0,,Nhưng không một ai tin.
 Dialogue: 12,0:17:38.95,0:17:41.37,Main,,0,0,0,,Cho tới lúc chết, \Nbố bị họ coi như kẻ nói dối.
 Dialogue: 12,0:17:47.63,0:17:50.30,Main,,0,0,0,,Nhưng bố tớ không bao giờ nói dối.
 Dialogue: 12,0:17:51.01,0:17:53.01,Main,,0,0,0,,Hiện tớ đang chế tạo một chiếc máy bay thật.
-Dialogue: 12,0:17:53.01,0:17:55.30,Main,,0,0,0,,Rồi tớ sẽ tìm ra được Laputa cho xem.
+Dialogue: 12,0:17:53.01,0:17:55.30,Main,,0,0,0,,Rồi tớ sẽ tìm ra Laputa cho xem.
 Dialogue: 12,0:18:06.27,0:18:08.82,Main,,0,0,0,,Ô tô cơ à, hiếm lắm mới thấy.
 Dialogue: 12,0:18:08.82,0:18:10.40,Main,,0,0,0,,Họ là không tặc đấy.
 Dialogue: 12,0:18:11.57,0:18:13.66,Main,,0,0,0,,Họ tấn công phi thuyền.
@@ -348,7 +348,7 @@ Dialogue: 12,0:33:31.74,0:33:32.99,Main,,0,0,0,,Đá Phi Hành?
 Dialogue: 12,0:33:35.49,0:33:40.37,Main,,0,0,0,,Ngay khi tiếp xúc với không khí, \Nnó sẽ trở thành viên đá bình thường.{FIX: "nó sẽ" ~moca}{org: Ngay khi tiếp xúc với không khí, \Nnó trở thành viên đá bình thường.}
 Dialogue: 12,0:33:45.96,0:33:47.21,Main,,0,0,0,,Nó phát sáng...
 Dialogue: 12,0:33:48.26,0:33:52.97,Main,,0,0,0,,Ôi trời đất ơi!\N Của cháu là tinh thể Đá Phi Hành tinh khiết.
-Dialogue: 12,0:33:53.59,0:33:56.85,Main,,0,0,0,,Nay ông mới được chiêm ngưỡng lần đầu.
+Dialogue: 12,0:33:53.59,0:33:56.85,Main,,0,0,0,,Nay mới là lần đầu ông được chiêm ngưỡng.
 Dialogue: 12,0:33:59.02,0:34:01.89,Main,,0,0,0,,Bảo sao đá ở đây rì rầm.
 Dialogue: 12,0:34:01.89,0:34:04.56,Main,,0,0,0,,Viên đá này có sức mạnh bí ẩn ạ.
 Dialogue: 12,0:34:05.94,0:34:11.28,Main,,0,0,0,,Ông nghe nói chỉ có người Laputa cổ xưa \Nmới có thể kết tinh Đá Phi Hành.
@@ -412,12 +412,12 @@ Dialogue: 12,0:38:35.46,0:38:36.42,Main,,0,0,0,,Sheeta.
 Dialogue: 12,0:38:41.05,0:38:42.93,Main,,0,0,0,,Toàn quân! Nghiêm!
 Dialogue: 12,0:39:14.16,0:39:15.17,Main,,0,0,0,,Quá chậm!
 Dialogue: 12,0:39:15.79,0:39:19.42,Main,,0,0,0,,Chỉ là con nhóc thôi,\N ép cung cái là nó khai ra liền.{FIX: "ép cung", mà câu này đọc nó cũng sao sao ấy ~moca}{org: "Chỉ là con nhóc ép cũng cái là nó khai ra liền."~KiOZ}
-Dialogue: 12,0:39:19.42,0:39:21.17,Main,,0,0,0,,Quân nhân các anh vẫn thế.
+Dialogue: 12,0:39:19.42,0:39:21.17,Main,,0,0,0,,Quân nhân quả đúng là quân nhân.
 Dialogue: 12,0:39:22.09,0:39:24.93,Main,,0,0,0,,Nóng vội là xôi hỏng bỏng không đấy,\N thưa ngài.
 Dialogue: 12,0:39:26.01,0:39:30.68,Main,,0,0,0,,Từ đầu mà xuất quân sớm hơn \Nthì băng Dola giờ nằm trong túi rồi.
 Dialogue: 12,0:39:31.64,0:39:34.48,Main,,0,0,0,,Vâng thưa ngài,\N mật mã hạng xoàng đó của ngài đã bị chúng giải.
 Dialogue: 12,0:39:34.85,0:39:35.77,Main,,0,0,0,,Gì cơ?
-Dialogue: 12,0:39:35.77,0:39:38.27,Main,,0,0,0,,Giờ việc sẽ do tổ chức của bên tôi.
+Dialogue: 12,0:39:35.77,0:39:38.27,Main,,0,0,0,,Giờ việc sẽ do tổ chức bên tôi.
 Dialogue: 12,0:39:39.23,0:39:43.19,Main,,0,0,0,,Còn bên ngài, những gì cần làm\N là điều động quân đội khi thời cơ tới.
 Dialogue: 12,0:39:45.07,0:39:49.03,Main,,0,0,0,,Muska! Ta mới là chỉ huy cuộc tìm kiếm Laputa!\NNhớ lấy!
 Dialogue: 12,0:39:49.78,0:39:54.50,Main,,0,0,0,,Đương nhiên, nhưng ngài hãy nhớ cho, \Ntôi có mật lệnh từ chính phủ.{FIX: "ngài hãy nhớ cho, \Ntôi có mật lệnh" ~moca}{org: Đương nhiên, nhưng ngài hãy nhớ cho, \Ntôi có mật lệnh từ chính phủ.}
@@ -477,7 +477,7 @@ Dialogue: 12,0:44:18.97,0:44:20.93,Main,,0,0,0,,Pazu, tớ nhờ cậu việc n�
 Dialogue: 12,0:44:20.93,0:44:22.18,Main,,0,0,0,,Hãy quên Laputa đi.
 Dialogue: 12,0:44:23.35,0:44:24.02,Main,,0,0,0,,Gì cơ?
 Dialogue: 12,0:44:24.64,0:44:30.23,Main,,0,0,0,,Quân đội chúng ta sẽ bí mật điều tra Laputa \Ndưới sự giúp đỡ của Sheeta-san.
-Dialogue: 12,0:44:30.23,0:44:33.61,Main,,0,0,0,,Ta hiểu cảm giác của cậu, \Nnhưng xin cậu hãy buông tay.
+Dialogue: 12,0:44:30.23,0:44:33.61,Main,,0,0,0,,Ta hiểu cảm giác của cậu, \Nnhưng xin cậu hãy buông ra.
 Dialogue: 12,0:44:33.61,0:44:35.86,Main,,0,0,0,,Sheeta, thật sao? Cơ mà...
 Dialogue: 12,0:44:35.86,0:44:38.20,Main,,0,0,0,,Xin lỗi đã làm phiền cậu nhiều rồi.
 Dialogue: 12,0:44:38.20,0:44:40.28,Main,,0,0,0,,Cảm ơn, tớ sẽ không quên Pazu đâu.
@@ -592,7 +592,7 @@ Dialogue: 12,0:54:34.75,0:54:35.63,Main,,0,0,0,,Nó di chuyển kìa.
 Dialogue: 12,0:54:35.63,0:54:36.42,Main,,0,0,0,,Dập lửa đi.
 Dialogue: 12,0:54:36.42,0:54:37.34,Main,,0,0,0,,Robot đấy!
 Dialogue: 12,0:54:44.84,0:54:45.64,Main,,0,0,0,,Robot?
-Dialogue: 12,0:54:58.78,0:54:59.82,Main,,0,0,0,,Nó hướng tới chỗ này à?
+Dialogue: 12,0:54:58.78,0:54:59.82,Main,,0,0,0,,Nó định tới chỗ này à?
 Dialogue: 12,0:55:05.03,0:55:06.03,Main,,0,0,0,,Khẩn trương!
 Dialogue: 12,0:55:13.33,0:55:15.63,Main,,0,0,0,,Toàn quân rút lui! Rút lui!
 Dialogue: 12,0:55:17.92,0:55:18.80,Main,,0,0,0,,Quá kinh!
@@ -603,7 +603,7 @@ Dialogue: 12,0:55:35.73,0:55:37.61,Main,,0,0,0,,Mở ra con đường đến Lap
 Dialogue: 12,0:55:37.61,0:55:38.11,Main,,0,0,0,,Đi mau!
 Dialogue: 12,0:55:38.11,0:55:38.94,Main,,0,0,0,,Không!
 Dialogue: 12,0:55:59.84,0:56:01.00,Main,,0,0,0,,Nó tính bay à?
-Dialogue: 12,0:56:12.06,0:56:13.81,Main,,0,0,0,,Kinh hoàng!
+Dialogue: 12,0:56:12.06,0:56:13.81,Main,,0,0,0,,Khiếp quá!
 Dialogue: 12,0:56:53.51,0:56:55.14,Main,,0,0,0,,Nó chỉ lên trời.
 Dialogue: 12,0:57:00.02,0:57:02.65,Main,,0,0,0,,Nó chỉ về hướng của Laputa.
 Dialogue: 12,0:57:03.44,0:57:05.15,Main,,0,0,0,,Chưa xong à? Mau lên!
@@ -827,7 +827,7 @@ Dialogue: 12,1:15:26.38,1:15:28.84,Main,,0,0,0,,Lúc học thứ đó, \Ntớ s�
 Dialogue: 12,1:15:30.09,1:15:32.84,Main,,0,0,0,,Viên đá đó là thứ\Nkhông thể mang ra ngoài được.
 Dialogue: 12,1:15:33.47,1:15:38.35,Main,,0,0,0,,Cho nên lúc nào tớ cũng giấu nó ở cái lỗ chỗ lò sưởi,\N và chỉ được đeo trong lễ cưới.
 Dialogue: 12,1:15:38.85,1:15:43.77,Main,,0,0,0,,Mẹ tớ, bà tớ và cả bà của bà tớ... \Nai cũng làm thế cả.
-Dialogue: 12,1:15:44.48,1:15:47.15,Main,,0,0,0,,Lẽ ra tớ nên vứt nó đi sớm hơn.
+Dialogue: 12,1:15:44.48,1:15:47.15,Main,,0,0,0,,Lẽ ra tớ nên sớm vứt nó đi thì hơn.
 Dialogue: 12,1:15:47.15,1:15:51.53,Main,,0,0,0,,Không phải đâu, \Nnhờ viên đá đó mà tớ mới gặp được Sheeta.
 Dialogue: 12,1:15:52.03,1:15:54.70,Main,,0,0,0,,Dù có vứt viên đá đi\N thì Laputa vẫn còn đó.{FIX: "Dù có vứt viên đá đi" lặp từ đó ~moca}{org: Dù có vứt viên đá đó đi\N thì Laputa vẫn còn đó.}
 Dialogue: 12,1:15:55.53,1:15:59.79,Main,,0,0,0,,Tàu bay sẽ ngày một hiện đại hơn,\N rồi sẽ tới lúc tìm ra được.
@@ -835,7 +835,7 @@ Dialogue: 12,1:16:00.99,1:16:03.58,Main,,0,0,0,,Tớ vẫn chưa biết cần ph
 Dialogue: 12,1:16:03.58,1:16:05.83,Main,,0,0,0,,nhưng nếu Laputa thật sự là\Nmột hòn đảo đáng sợ...
 Dialogue: 12,1:16:05.83,1:16:08.79,Main,,0,0,0,,thì không thể giao nó\N cho những kẻ như Muska được.
 Dialogue: 12,1:16:08.79,1:16:09.75,Main,,0,0,0,,Hơn nữa...
-Dialogue: 12,1:16:11.21,1:16:14.38,Main,,0,0,0,,giờ có chạy trốn \Nthì cũng sẽ mãi bị truy đuổi thôi.
+Dialogue: 12,1:16:11.21,1:16:14.38,Main,,0,0,0,,giờ có chạy trốn \Nthì cũng sẽ bị truy đuổi mãi thôi.
 Dialogue: 12,1:16:14.38,1:16:17.05,Main,,0,0,0,,Nhưng tớ không muốn Pazu vì tớ\N mà trở thành cướp.
 Dialogue: 12,1:16:17.93,1:16:19.76,Main,,0,0,0,,Tớ không thành cướp đâu.
 Dialogue: 12,1:16:20.35,1:16:22.18,Main,,0,0,0,,Bà Dola sẽ hiểu cho thôi.
