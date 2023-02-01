@@ -31,7 +31,7 @@ jobs:
     - name: Merge subtitle
       run: ./gradlew merge.${{matrix.episodes}}
     - name: Move merged subtitle
-      run: mv build/merge.${{matrix.episodes}}.default.ass fonts/${{env.show}}.ass
+      run: mv build/merge.${{matrix.episodes}}.default.ass "fonts/${{env.show}}.ass"
     - name: Upload
       uses: actions/upload-artifact@v3
       with:
