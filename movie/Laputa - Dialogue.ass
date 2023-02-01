@@ -19,9 +19,9 @@ Video File: ../../../[RAW]/(1986) Laputa.Castle.in.the.Sky.BluRay.1080p.HEVC.10b
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 864
-Active Line: 870
-Video Position: 116162
+Scroll Position: 1165
+Active Line: 1181
+Video Position: 164111
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -35,38 +35,38 @@ Style: Main - VN,Segoe UI,50,&H00FFFFFF,&H000000FF,&H00070741,&HA9070741,-1,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 9,2:01:30.43,2:01:38.65,OST,,0,36,0,,{\fad(250,250)\blur0.6\bord0\shad0\yshad0\an9\xshad0\c&HFAFEFD&}Lý do chân trời kia tỏa sáng...
-Dialogue: 9,2:01:38.65,2:01:46.78,OST,,0,36,0,,{\fad(250,250)\blur0.6\bord0\shad0\yshad0\an9\xshad0\c&HFAFEFD&}là bởi để che dấu người ở đâu đó.
+Dialogue: 9,2:01:38.65,2:01:46.78,OST,,0,36,0,,{\fad(250,250)\blur0.6\bord0\shad0\yshad0\an9\xshad0\c&HFAFEFD&}là bởi để che giấu người ở đâu đó.{FIX: che giấu ~moca}
 Dialogue: 9,2:01:46.78,2:01:54.75,OST,,0,36,0,,{\fad(250,250)\blur0.6\bord0\shad0\yshad0\an9\xshad0\c&HFAFEFD&}Lý do ta trân trọng biết bao tia sáng ấy...
 Dialogue: 9,2:01:55.20,2:02:03.05,OST,,0,36,0,,{\fad(250,250)\blur0.6\bord0\shad0\yshad0\an9\xshad0\c&HFAFEFD&}là bởi trong số đó có người.
 Dialogue: 9,2:02:03.05,2:02:11.18,OST,,0,36,0,,{\fad(250,250)\blur0.6\bord0\shad0\yshad0\an9\xshad0\c&HFAFEFD&}Thế là ta khởi hành với lát bánh mì,
 Dialogue: 9,2:02:11.76,2:02:21.52,OST,,0,36,0,,{\fad(250,250)\blur0.6\bord0\shad0\yshad0\an9\xshad0\c&HFAFEFD&}với con dao, với cây đèn, tất cả trong túi.
 Dialogue: 9,2:02:21.52,2:02:29.66,OST,,0,36,0,,{\fad(250,250)\blur0.6\bord0\shad0\yshad0\an9\xshad0\c&HFAFEFD&}Khát khao cháy bỏng cha truyền.
 Dialogue: 9,2:02:29.66,2:02:37.83,OST,,0,36,0,,{\fad(250,250)\blur0.6\bord0\shad0\yshad0\an9\xshad0\c&HFAFEFD&}Ánh mắt quyết tâm mẹ trao.
-Dialogue: 9,2:02:37.83,2:02:46.01,OST,,0,36,0,,{\fad(250,250)\blur0.6\bord0\shad0\yshad0\an9\xshad0\c&HFAFEFD&}Trái Đất cứ quay, dấu che lấy người.
+Dialogue: 9,2:02:37.83,2:02:46.01,OST,,0,36,0,,{\fad(250,250)\blur0.6\bord0\shad0\yshad0\an9\xshad0\c&HFAFEFD&}Trái Đất cứ quay, giấu che lấy người.{FIX: "giấu che" ~moca}
 Dialogue: 9,2:02:46.01,2:02:54.14,OST,,0,36,0,,{\fad(250,250)\blur0.6\bord0\shad0\yshad0\an9\xshad0\c&HFAFEFD&}Soi sáng đôi mắt, tia sáng lấp lánh.
 Dialogue: 9,2:02:54.14,2:03:02.56,OST,,0,36,0,,{=3}{\fad(250,250)\blur0.6\bord0\shad0\yshad0\an9\xshad0\c&HFAFEFD&}Trái Đất cứ quay, đưa người đi theo.
 Dialogue: 9,2:03:02.56,2:03:10.82,OST,,0,36,0,,{\fad(250,250)\blur0.6\bord0\shad0\yshad0\an9\xshad0\c&HFAFEFD&}Rồi mai này, đưa chúng ta hội ngộ.
 Dialogue: 9,2:03:26.71,2:03:34.97,OST,,0,36,0,,{\fad(250,250)\blur0.6\bord0\shad0\yshad0\an9\xshad0\c&HFAFEFD&}Khát khao cháy bỏng cha truyền.
 Dialogue: 9,2:03:34.97,2:03:43.15,OST,,0,36,0,,{\fad(250,250)\blur0.6\bord0\shad0\yshad0\an9\xshad0\c&HFAFEFD&}Ánh mắt quyết tâm mẹ trao.
-Dialogue: 9,2:03:43.15,2:03:51.32,OST,,0,36,0,,{\fad(250,250)\blur0.6\bord0\shad0\yshad0\an9\xshad0\c&HFAFEFD&}Trái Đất cứ quay, dấu che lấy người.
+Dialogue: 9,2:03:43.15,2:03:51.32,OST,,0,36,0,,{\fad(250,250)\blur0.6\bord0\shad0\yshad0\an9\xshad0\c&HFAFEFD&}Trái Đất cứ quay, giấu che lấy người.{FIX: "giấu che" ~moca}
 Dialogue: 9,2:03:51.32,2:03:59.41,OST,,0,36,0,,{\fad(250,250)\blur0.6\bord0\shad0\yshad0\an9\xshad0\c&HFAFEFD&}Soi sáng đôi mắt, tia sáng lấp lánh.
 Dialogue: 9,2:03:59.41,2:04:07.84,OST,,0,36,0,,{\fad(250,250)\blur0.6\bord0\shad0\yshad0\an9\xshad0\c&HFAFEFD&}Trái Đất cứ quay, đưa người đi theo.
 Dialogue: 9,2:04:07.84,2:04:17.55,OST,,0,36,0,,{\fad(250,250)\blur0.6\bord0\shad0\yshad0\an9\xshad0\c&HFAFEFD&}Rồi mai này, đưa chúng ta hội ngộ.
 Dialogue: 8,2:01:30.43,2:01:38.65,OST,,0,36,0,,{\fad(250,250)\blur1\bord0\shad0\yshad0\an9\xshad0\c&H134196&}Lý do chân trời kia tỏa sáng...
-Dialogue: 8,2:01:38.65,2:01:46.78,OST,,0,36,0,,{\fad(250,250)\blur1\bord0\shad0\yshad0\an9\xshad0\c&H134196&}là bởi để che dấu người ở đâu đó.
+Dialogue: 8,2:01:38.65,2:01:46.78,OST,,0,36,0,,{\fad(250,250)\blur1\bord0\shad0\yshad0\an9\xshad0\c&H134196&}là bởi để che giấu người ở đâu đó.{FIX: che giấu ~moca}
 Dialogue: 8,2:01:46.78,2:01:54.75,OST,,0,36,0,,{\fad(250,250)\blur1\bord0\shad0\yshad0\an9\xshad0\c&H134196&}Lý do ta trân trọng biết bao tia sáng ấy...
 Dialogue: 8,2:01:55.20,2:02:03.05,OST,,0,36,0,,{\fad(250,250)\blur1\bord0\shad0\yshad0\an9\xshad0\c&H134196&}là bởi trong số đó có người.
 Dialogue: 8,2:02:03.05,2:02:11.18,OST,,0,36,0,,{\fad(250,250)\blur1\bord0\shad0\yshad0\an9\xshad0\c&H134196&}Thế là ta khởi hành với lát bánh mì,
 Dialogue: 8,2:02:11.76,2:02:21.52,OST,,0,36,0,,{\fad(250,250)\blur1\bord0\shad0\yshad0\an9\xshad0\c&H134196&}với con dao, với cây đèn, tất cả trong túi.
 Dialogue: 8,2:02:21.52,2:02:29.66,OST,,0,36,0,,{\fad(250,250)\blur1\bord0\shad0\yshad0\an9\xshad0\c&H134196&}Khát khao cháy bỏng cha truyền.
 Dialogue: 8,2:02:29.66,2:02:37.83,OST,,0,36,0,,{\fad(250,250)\blur1\bord0\shad0\yshad0\an9\xshad0\c&H134196&}Ánh mắt quyết tâm mẹ trao.
-Dialogue: 8,2:02:37.83,2:02:46.01,OST,,0,36,0,,{\fad(250,250)\blur1\bord0\shad0\yshad0\an9\xshad0\c&H134196&}Trái Đất cứ quay, dấu che lấy người.
+Dialogue: 8,2:02:37.83,2:02:46.01,OST,,0,36,0,,{\fad(250,250)\blur1\bord0\shad0\yshad0\an9\xshad0\c&H134196&}Trái Đất cứ quay, giấu che lấy người.{FIX: "giấu che" ~moca}
 Dialogue: 8,2:02:46.01,2:02:54.14,OST,,0,36,0,,{\fad(250,250)\blur1\bord0\shad0\yshad0\an9\xshad0\c&H134196&}Soi sáng đôi mắt, tia sáng lấp lánh.
 Dialogue: 8,2:02:54.14,2:03:02.56,OST,,0,36,0,,{\fad(250,250)\blur1\bord0\shad0\yshad0\an9\xshad0\c&H134196&}Trái Đất cứ quay, đưa người đi theo.
 Dialogue: 8,2:03:02.56,2:03:10.82,OST,,0,36,0,,{\fad(250,250)\blur1\bord0\shad0\yshad0\an9\xshad0\c&H134196&}Rồi mai này, đưa chúng ta hội ngộ.
 Dialogue: 8,2:03:26.71,2:03:34.97,OST,,0,36,0,,{\fad(250,250)\blur1\bord0\shad0\yshad0\an9\xshad0\c&H134196&}Khát khao cháy bỏng cha truyền.
 Dialogue: 8,2:03:34.97,2:03:43.15,OST,,0,36,0,,{\fad(250,250)\blur1\bord0\shad0\yshad0\an9\xshad0\c&H134196&}Ánh mắt quyết tâm mẹ trao.
-Dialogue: 8,2:03:43.15,2:03:51.32,OST,,0,36,0,,{\fad(250,250)\blur1\bord0\shad0\yshad0\an9\xshad0\c&H134196&}Trái Đất cứ quay, dấu che lấy người.
+Dialogue: 8,2:03:43.15,2:03:51.32,OST,,0,36,0,,{\fad(250,250)\blur1\bord0\shad0\yshad0\an9\xshad0\c&H134196&}Trái Đất cứ quay, giấu che lấy người.{FIX: "giấu che" ~moca}
 Dialogue: 8,2:03:51.32,2:03:59.41,OST,,0,36,0,,{\fad(250,250)\blur1\bord0\shad0\yshad0\an9\xshad0\c&H134196&}Soi sáng đôi mắt, tia sáng lấp lánh.
 Dialogue: 8,2:03:59.41,2:04:07.84,OST,,0,36,0,,{\fad(250,250)\blur1\bord0\shad0\yshad0\an9\xshad0\c&H134196&}Trái Đất cứ quay, đưa người đi theo.
 Dialogue: 8,2:04:07.84,2:04:17.55,OST,,0,36,0,,{=17}{\fad(250,250)\blur1\bord0\shad0\yshad0\an9\xshad0\c&H134196&}Rồi mai này, đưa chúng ta hội ngộ.
@@ -78,7 +78,7 @@ Dialogue: 12,0:01:49.17,0:01:50.92,Main,,0,0,0,,Bị tấn công!
 Dialogue: 12,0:02:16.41,0:02:17.66,Main,,0,0,0,,Hạ chúng đi!
 Dialogue: 12,0:02:17.66,0:02:18.87,Main,,0,0,0,,Còn {\i1}em{\i0} nằm xuống sàn.
 Dialogue: 12,0:02:46.40,0:02:48.27,Main,,0,0,0,,Là hơi cay.
-Dialogue: 12,0:02:58.87,0:03:02.16,Main,,0,0,0,,Lừng chừng cái gì nữa!\N Đạp tung nó ra!
+Dialogue: 12,0:02:58.87,0:03:02.16,Main,,0,0,0,,Lừng chừng cái gì nữa!\N Đạp tung nó ra!{FIX: chỗ em hay dùng ''lần chần'' :)) ~moca}{@@ ~KiOZ}
 Dialogue: 12,0:03:11.25,0:03:12.42,Main,,0,0,0,,Mịa nó đâu mất tiêu rồi!
 Dialogue: 12,0:03:14.05,0:03:14.92,Main,,0,0,0,,Đây rồi!
 Dialogue: 12,0:03:16.18,0:03:18.34,Main,,0,0,0,,Mama, nó đây rồi, nó tính trốn.
@@ -295,7 +295,7 @@ Dialogue: 12,0:28:22.26,0:28:23.10,Main,,0,0,0,,Nó đang tắt dần.
 Dialogue: 12,0:28:23.10,0:28:24.52,Main,,0,0,0,,À à đợi chút.
 Dialogue: 12,0:28:33.27,0:28:35.61,Main,,0,0,0,,Giống lần đầu Sheeta rơi xuống đó.
 Dialogue: 12,0:28:38.15,0:28:40.20,Main,,0,0,0,,Lối vào nhìn bé quá.
-Dialogue: 12,0:28:40.70,0:28:44.79,Main,,0,0,0,,Mong là sếp cùng mọi người chỗ cậu\N không mệnh hề gì.
+Dialogue: 12,0:28:40.70,0:28:44.79,Main,,0,0,0,,Mong là sếp cùng mọi người chỗ cậu\N không mệnh hệ gì.{FIX: ''mệnh hệ'' ~moca}{org: Mong là sếp cùng mọi người chỗ cậu\N không mệnh hề gì.}
 Dialogue: 12,0:28:44.79,0:28:47.96,Main,,0,0,0,,Khỏi lo! \NTrai xứ mỏ không yếu đuối đâu.
 Dialogue: 12,0:28:47.96,0:28:50.17,Main,,0,0,0,,Nào, đi thôi. \NPhải tìm đường ra khỏi đây.
 Dialogue: 12,0:28:53.09,0:28:57.34,Main,,0,0,0,,Những mỏ ở đây cũ lắm rồi,\N đường hầm có ở khắp mọi nơi.
@@ -345,7 +345,7 @@ Dialogue: 12,0:33:13.22,0:33:16.18,Main,,0,0,0,,Vậy... để ông cho xem cái
 Dialogue: 12,0:33:26.44,0:33:28.07,Main,,0,0,0,,Tắt mất rồi.
 Dialogue: 12,0:33:28.07,0:33:31.74,Main,,0,0,0,,Những tảng đá quanh đây\N có chứa đá Phi Hành đấy.
 Dialogue: 12,0:33:31.74,0:33:32.99,Main,,0,0,0,,Đá Phi Hành?
-Dialogue: 12,0:33:35.49,0:33:40.37,Main,,0,0,0,,Ngay khi tiếp xúc với không khí, \Nnó trở thành viên đá bình thường.
+Dialogue: 12,0:33:35.49,0:33:40.37,Main,,0,0,0,,Ngay khi tiếp xúc với không khí, \Nnó sẽ trở thành viên đá bình thường.{FIX: "nó sẽ" ~moca}{org: Ngay khi tiếp xúc với không khí, \Nnó trở thành viên đá bình thường.}
 Dialogue: 12,0:33:45.96,0:33:47.21,Main,,0,0,0,,Nó phát sáng...
 Dialogue: 12,0:33:48.26,0:33:52.97,Main,,0,0,0,,Ôi trời đất ơi!\N Của cháu là tinh thể Đá Phi Hành tinh khiết.
 Dialogue: 12,0:33:53.59,0:33:56.85,Main,,0,0,0,,Nay ông mới được chiêm ngưỡng lần đầu.
@@ -353,7 +353,7 @@ Dialogue: 12,0:33:59.02,0:34:01.89,Main,,0,0,0,,Bảo sao đá ở đây rì r�
 Dialogue: 12,0:34:01.89,0:34:04.56,Main,,0,0,0,,Viên đá này có sức mạnh bí ẩn ạ.
 Dialogue: 12,0:34:05.94,0:34:11.28,Main,,0,0,0,,Ông nghe nói chỉ có người Laputa cổ xưa \Nmới có thể kết tinh Đá Phi Hành.
 Dialogue: 12,0:34:11.70,0:34:13.36,Main,,0,0,0,,Người Laputa?
-Dialogue: 12,0:34:13.36,0:34:17.37,Main,,0,0,0,,Nhờ nó họ đã đưa được cả \Nmột hòn đảo bay lên trời.
+Dialogue: 12,0:34:13.36,0:34:17.37,Main,,0,0,0,,Nhờ nó mà họ đã đưa được cả \Nmột hòn đảo bay lên trời.{FIX: Nhờ nó mà họ đã đưa ~moca}{org: Nhờ nó họ đã đưa được cả \Nmột hòn đảo bay lên trời.}
 Dialogue: 12,0:34:17.37,0:34:19.37,Main,,0,0,0,,Laputa tồn tại thật ông nhỉ?
 Dialogue: 12,0:34:19.37,0:34:21.91,Main,,0,0,0,,Sheeta, có thật đấy!
 Dialogue: 12,0:34:21.91,0:34:24.92,Main,,0,0,0,,Ông ơi, hòn đảo đó giờ còn chứ ạ?
@@ -382,7 +382,7 @@ Dialogue: 12,0:35:40.41,0:35:44.08,Main,,0,0,0,,Tuyệt vời! Laputa thực s�
 Dialogue: 12,0:35:52.96,0:35:54.17,Main,,0,0,0,,Lượn rồi.
 Dialogue: 12,0:35:54.17,0:35:56.38,Main,,0,0,0,,Về tàu thôi, Mama.
 Dialogue: 12,0:35:56.38,0:36:00.30,Main,,0,0,0,,Quá yên ắng.\N Những lúc thế này, tốt hơn hết là án binh bất động.
-Dialogue: 12,0:36:02.43,0:36:03.85,Main,,0,0,0,,Đói méo bụng rồi.
+Dialogue: 12,0:36:02.43,0:36:03.85,Main,,0,0,0,,Đói meo bụng rồi.{FIX: "Đói meo" ~moca}{org: Đói méo bụng rồi.}
 Dialogue: 12,0:36:05.64,0:36:07.48,Main,,0,0,0,,Không sao cả rồi, đi thôi!
 Dialogue: 12,0:36:08.27,0:36:09.90,Main,,0,0,0,,Ông ơi, cảm ơn ông.
 Dialogue: 12,0:36:09.90,0:36:11.69,Main,,0,0,0,,Cẩn thận nhé.
@@ -411,16 +411,16 @@ Dialogue: 12,0:38:28.45,0:38:30.12,Main,,0,0,0,,Mở ra! Mở ra!
 Dialogue: 12,0:38:35.46,0:38:36.42,Main,,0,0,0,,Sheeta.
 Dialogue: 12,0:38:41.05,0:38:42.93,Main,,0,0,0,,Toàn quân! Nghiêm!
 Dialogue: 12,0:39:14.16,0:39:15.17,Main,,0,0,0,,Quá chậm!
-Dialogue: 12,0:39:15.79,0:39:19.42,Main,,0,0,0,,Chỉ là con nhóc ép cũng cái là nó khai ra liền.
+Dialogue: 12,0:39:15.79,0:39:19.42,Main,,0,0,0,,Chỉ là con nhóc thôi,\N ép cung cái là nó khai ra liền.{FIX: "ép cung", mà câu này đọc nó cũng sao sao ấy ~moca}{org: "Chỉ là con nhóc ép cũng cái là nó khai ra liền."~KiOZ}
 Dialogue: 12,0:39:19.42,0:39:21.17,Main,,0,0,0,,Quân nhân các anh vẫn thế.
 Dialogue: 12,0:39:22.09,0:39:24.93,Main,,0,0,0,,Nóng vội là xôi hỏng bỏng không đấy,\N thưa ngài.
 Dialogue: 12,0:39:26.01,0:39:30.68,Main,,0,0,0,,Từ đầu mà xuất quân sớm hơn \Nthì băng Dola giờ nằm trong túi rồi.
 Dialogue: 12,0:39:31.64,0:39:34.48,Main,,0,0,0,,Vâng thưa ngài,\N mật mã hạng xoàng đó của ngài đã bị chúng giải.
 Dialogue: 12,0:39:34.85,0:39:35.77,Main,,0,0,0,,Gì cơ?
 Dialogue: 12,0:39:35.77,0:39:38.27,Main,,0,0,0,,Giờ việc sẽ do tổ chức của bên tôi.
-Dialogue: 12,0:39:39.23,0:39:43.19,Main,,0,0,0,,Còn bên ngài, những gì cần làm\N là điều động quân đội khi thời cơ tới.{Orig: "Bệ hạ có thể tập trung điều động quân đội khi thời cơ chín muồi." anh ấy đang bỏ đi.}
+Dialogue: 12,0:39:39.23,0:39:43.19,Main,,0,0,0,,Còn bên ngài, những gì cần làm\N là điều động quân đội khi thời cơ tới.
 Dialogue: 12,0:39:45.07,0:39:49.03,Main,,0,0,0,,Muska! Ta mới là chỉ huy cuộc tìm kiếm Laputa!\NNhớ lấy!
-Dialogue: 12,0:39:49.78,0:39:54.50,Main,,0,0,0,,Đương nhiên, nhưng ngài hãy nhớ cho \Ntôi có mật lệnh từ chính phủ.
+Dialogue: 12,0:39:49.78,0:39:54.50,Main,,0,0,0,,Đương nhiên, nhưng ngài hãy nhớ cho, \Ntôi có mật lệnh từ chính phủ.{FIX: "ngài hãy nhớ cho, \Ntôi có mật lệnh" ~moca}{org: Đương nhiên, nhưng ngài hãy nhớ cho, \Ntôi có mật lệnh từ chính phủ.}
 Dialogue: 12,0:39:57.71,0:40:00.46,Main,,0,0,0,,Khốn nạn! \NThằng đặc vụ hỉ mũi chưa sạch!
 Dialogue: 12,0:40:17.94,0:40:19.06,Main,,0,0,0,,Em ngủ ngon chứ nhỉ?
 Dialogue: 12,0:40:19.65,0:40:22.11,Main,,0,0,0,,Pazu đâu? Cho tôi gặp Pazu đi.
@@ -519,13 +519,13 @@ Dialogue: 12,0:47:53.48,0:47:56.56,Main,,0,0,0,,Lên giọng ít thôi! \NKhông
 Dialogue: 12,0:47:56.56,0:47:58.56,Main,,0,0,0,,Lại chả thế.
 Dialogue: 12,0:47:58.56,0:48:01.57,Main,,0,0,0,,Không tặc không theo đuổi kho báu\N thì theo giề.
 Dialogue: 12,0:48:02.40,0:48:03.99,Main,,0,0,0,,Đám bọn chúng mới là lạ.
-Dialogue: 12,0:48:03.99,0:48:06.53,Main,,0,0,0,,Sao lại len la lén lút bắt cóc một cô gái.
+Dialogue: 12,0:48:03.99,0:48:06.53,Main,,0,0,0,,Sao lại lén la lén lút bắt cóc một cô gái.{FIX: ''lén la lén lút'' ~moca}{org: Sao lại lén la lén lút bắt cóc một cô gái.}
 Dialogue: 12,0:48:10.95,0:48:14.58,Main,,0,0,0,,Bộ nhóc nghĩ bọn chúng để con bé sống à?
 Dialogue: 12,0:48:19.33,0:48:22.00,Main,,0,0,0,,"Sheeta bảo tôi thế", ngu thế chứ lại.
 Dialogue: 12,0:48:22.00,0:48:25.59,Main,,0,0,0,,Rõ ràng là chúng lấy nhóc ra đe dọa\N để ép con bé chấp nhận.
 Dialogue: 12,0:48:25.59,0:48:28.14,Main,,0,0,0,,Mama biết rõ nhở.
 Dialogue: 12,0:48:28.14,0:48:30.80,Main,,0,0,0,,Già đầu 50 năm nay rồi tao còn lạ à.
-Dialogue: 12,0:48:30.80,0:48:34.93,Main,,0,0,0,,Cảm động thế chứ nị.\N Giả vờ lạnh nhạt không cần để cứu trai.
+Dialogue: 12,0:48:30.80,0:48:34.93,Main,,0,0,0,,Cảm động thế chứ nị.\N Giả vờ lạnh nhạt không cần tới để cứu trai.{FIX: câu sau đọc hơi có vấn đề nhưng em cũng chưa biết sửa như nào cho tối ưu ~moca}{org: "Cảm động thế chứ nị.\N Giả vờ lạnh nhạt không cần để cứu trai." | không cần --> không cần tới ~KiOZ}
 Dialogue: 12,0:48:34.93,0:48:37.60,Main,,0,0,0,,Con bé giống tao hồi trẻ đấy.
 Dialogue: 12,0:48:37.98,0:48:41.40,Main,,0,0,0,,Tụi bay mà cưới vợ \Nthì nhớ kiếm lấy cô vợ như thế.
 Dialogue: 12,0:48:43.07,0:48:44.65,Main,,0,0,0,,Thế là sau này cũng như Mama à?
@@ -635,7 +635,7 @@ Dialogue: 12,0:59:42.18,0:59:44.39,Main,,0,0,0,,Charles, bay thấp xuống mộ
 Dialogue: 12,1:00:03.12,1:00:05.41,Main,,0,0,0,,Dừng lại! Dừng lại đi mà!
 Dialogue: 12,1:00:05.41,1:00:06.79,Main,,0,0,0,,Xin ngươi!
 Dialogue: 12,1:00:15.84,1:00:18.47,Main,,0,0,0,,Mama! Goliath bắt đầu hoạt động kìa!
-Dialogue: 12,1:00:25.27,1:00:27.90,Main,,0,0,0,,Cứ thế này ăn đạn của chúng mất.
+Dialogue: 12,1:00:25.27,1:00:27.90,Main,,0,0,0,,Cứ thế này thì ăn đạn của chúng mất.{FIX: Cứ thế này thì ~moca}{Cứ thế này ăn đạn của chúng mất.}
 Dialogue: 12,1:00:27.90,1:00:28.94,Main,,0,0,0,,Thiết lập lại!
 Dialogue: 12,1:00:28.94,1:00:30.48,Main,,0,0,0,,Đằng kia, Sheeta kìa!
 Dialogue: 12,1:00:30.48,1:00:31.07,Main,,0,0,0,,Gì cơ?!
@@ -698,11 +698,11 @@ Dialogue: 12,1:05:41.67,1:05:42.21,Main,,0,0,0,,Xem nào...
 Dialogue: 12,1:05:42.21,1:05:43.59,Main,,0,0,0,,Xem nào... {\alpha&HFF&}gì cũng chén.
 Dialogue: 12,1:05:43.59,1:05:44.55,Main,,0,0,0,,Xem nào... gì cũng chén.
 Dialogue: 12,1:05:44.55,1:05:46.42,Main,,0,0,0,,Tụi bay có thôi đi không hả!
-Dialogue: 12,1:05:46.42,1:05:49.30,Main,,0,0,0,,Thật là mãi vẫn như con nít.
+Dialogue: 12,1:05:46.42,1:05:49.30,Main,,0,0,0,,Thật là, mãi vẫn như con nít.{FIX: "Thật là, mãi vẫn như con nít." ~moca}{org: Thật là mãi vẫn như con nít.}
 Dialogue: 12,1:06:35.93,1:06:36.93,Main,,0,0,0,,Xuống.
 Dialogue: 12,1:06:41.10,1:06:43.35,Main,,0,0,0,,Vải kìa! Tàu này có chỗ bọc vải kìa!
 Dialogue: 12,1:06:43.35,1:06:44.81,Main,,0,0,0,,Đừng có làm rách.
-Dialogue: 12,1:06:45.73,1:06:48.48,Main,,0,0,0,,Đừng có đứng đơ ra đó, chặt lắm.
+Dialogue: 12,1:06:45.73,1:06:48.48,Main,,0,0,0,,Đừng có đứng đơ ra đó, chật lắm.{FIX: "chật lắm" ~moca}{chặt-->chật}
 Dialogue: 12,1:06:54.57,1:06:56.53,Main,,0,0,0,,Tác phong nó nhanh lên, qua bên này!
 Dialogue: 12,1:06:57.49,1:06:58.83,Main,,0,0,0,,Tao chúa ghét lề mề.
 Dialogue: 12,1:06:59.70,1:07:01.12,Main,,0,0,0,,Còn nhóc lại đây.
@@ -773,7 +773,7 @@ Dialogue: 12,1:12:05.43,1:12:08.43,Main,,0,900,0,,Chật quá thể xê ra tý c
 Dialogue: 12,1:12:06.43,1:12:08.43,Main,,900,0,0,,Bày đặt đau bụng cơ,\N tiên sư mày.
 Dialogue: 12,1:12:08.43,1:12:09.81,Main,,0,0,0,,Ya~ Có cần giúp gì{\fscx400}-
 Dialogue: 12,1:12:09.81,1:12:10.64,Main,,0,0,0,,Gì cơ?!
-Dialogue: 12,1:12:20.02,1:12:25.07,Main,,0,0,0,,Dola đã thay đổi rồi ha, \Ncòn theo duổi những thứ như Goliath cơ đấy.
+Dialogue: 12,1:12:20.02,1:12:25.07,Main,,0,0,0,,Dola đã thay đổi rồi ha, \Ncòn theo đuổi những thứ như Goliath cơ đấy.{FIX: ''theo đuổi'' ~moca}{theo duổi-->theo đuổi}
 Dialogue: 12,1:12:25.07,1:12:26.82,Main,,0,0,0,,Không đấu lại đâu.
 Dialogue: 12,1:12:26.82,1:12:29.28,Main,,0,0,0,,Là Laputa nhá, còn lâu mới bỏ.
 Dialogue: 12,1:12:30.66,1:12:33.54,Main,,0,0,0,,Tụi nó ngoan nhở, cả hai đứa.
@@ -819,7 +819,7 @@ Dialogue: 12,1:15:01.81,1:15:05.73,Main,,0,0,0,,Câu thần chú mà bà dạy t
 Dialogue: 12,1:15:07.19,1:15:10.78,Main,,0,0,0,,Bà cũng dạy \Nnhiều câu thần chú khác nữa.
 Dialogue: 12,1:15:10.78,1:15:13.36,Main,,0,0,0,,Tìm đồ này, chữa bệnh này.
 Dialogue: 12,1:15:13.36,1:15:15.82,Main,,0,0,0,,Cũng có câu thần chú \Nnhất định không được dùng.
-Dialogue: 12,1:15:15.82,1:15:17.58,Main,,0,0,0,,Câu thần chú nhưn không được dùng?
+Dialogue: 12,1:15:15.82,1:15:17.58,Main,,0,0,0,,Câu thần chú nhưng không được dùng?{FIX: ''nhưng'' ~moca}{org: Câu thần chú nhưn không được dùng?}
 Dialogue: 12,1:15:17.58,1:15:19.45,Main,,0,0,0,,Câu thần chú huỷ diệt.
 Dialogue: 12,1:15:19.45,1:15:23.87,Main,,0,0,0,,Để thần chú tốt đẹp hiệu nghiệm,\N thì phải học cả thần chú xấu xa.
 Dialogue: 12,1:15:23.87,1:15:25.83,Main,,0,0,0,,Nhưng không được phép dùng tới.
@@ -829,7 +829,7 @@ Dialogue: 12,1:15:33.47,1:15:38.35,Main,,0,0,0,,Cho nên lúc nào tớ cũng gi
 Dialogue: 12,1:15:38.85,1:15:43.77,Main,,0,0,0,,Mẹ tớ, bà tớ và cả bà của bà tớ... \Nai cũng làm thế cả.
 Dialogue: 12,1:15:44.48,1:15:47.15,Main,,0,0,0,,Lẽ ra tớ nên vứt nó đi sớm hơn.
 Dialogue: 12,1:15:47.15,1:15:51.53,Main,,0,0,0,,Không phải đâu, \Nnhờ viên đá đó mà tớ mới gặp được Sheeta.
-Dialogue: 12,1:15:52.03,1:15:54.70,Main,,0,0,0,,Dù có vứt viên đá đó đi\N thì Laputa vẫn còn đó.
+Dialogue: 12,1:15:52.03,1:15:54.70,Main,,0,0,0,,Dù có vứt viên đá đi\N thì Laputa vẫn còn đó.{FIX: "Dù có vứt viên đá đi" lặp từ đó ~moca}{org: Dù có vứt viên đá đó đi\N thì Laputa vẫn còn đó.}
 Dialogue: 12,1:15:55.53,1:15:59.79,Main,,0,0,0,,Tàu bay sẽ ngày một hiện đại hơn,\N rồi sẽ tới lúc tìm ra được.
 Dialogue: 12,1:16:00.99,1:16:03.58,Main,,0,0,0,,Tớ vẫn chưa biết cần phải làm gì cơ mà...
 Dialogue: 12,1:16:03.58,1:16:05.83,Main,,0,0,0,,nhưng nếu Laputa thật sự là\Nmột hòn đảo đáng sợ...
@@ -898,8 +898,8 @@ Dialogue: 12,1:20:07.03,1:20:09.20,Main,,0,0,0,,Cột thủy ngân đang hạ li
 Dialogue: 12,1:20:09.20,1:20:11.95,Main,,0,0,0,,Đen đấy, đúng lúc này lại gặp bão.
 Dialogue: 12,1:20:11.95,1:20:13.25,Main,,0,0,0,,Còn bao lâu thì trời sáng?
 Dialogue: 12,1:20:13.25,1:20:14.66,Main,,0,0,0,,1 tiếng nữa.
-Dialogue: 12,1:20:31.26,1:20:32.43,Main,,0,0,0,,Hửng đông rồi.
-Dialogue: 12,1:20:33.02,1:20:36.35,Main,,0,0,0,,Pazu, lạ quá.\N Hửng đông nhưng lại từ hướng đó.
+Dialogue: 12,1:20:31.26,1:20:32.43,Main,,0,0,0,,Hừng đông rồi.{FIX: ''Hừng đông'' ~moca}{org: Hửng đông rồi.}
+Dialogue: 12,1:20:33.02,1:20:36.35,Main,,0,0,0,,Pazu, lạ quá.\N Hừng đông nhưng lại từ hướng đó.{FIX: "Hừng đông" ~moca}{nt}
 Dialogue: 12,1:20:36.35,1:20:39.36,Main,,0,0,0,,Đúng rồi, chúng ta đi về hướng Đông cơ mà.
 Dialogue: 12,1:20:39.36,1:20:40.32,Main,,0,0,0,,Báo!
 Dialogue: 12,1:20:40.32,1:20:42.98,Main,,0,0,0,,Hả?! Chúng ta đang đi về hướng Bắc á?
@@ -937,7 +937,7 @@ Dialogue: 12,1:23:04.58,1:23:05.45,Main,,0,0,0,,Đằng kia kìa!
 Dialogue: 12,1:23:09.51,1:23:10.97,Main,,0,0,0,,Đang tối tăm mặt mũi thế này lại.
 Dialogue: 12,1:23:22.48,1:23:24.15,Main,,0,0,0,,Đi thôi, bà ơi.
 Dialogue: 12,1:23:24.15,1:23:26.98,Main,,0,0,0,,Bố cháu đã đi, và bố đã trở về.
-Dialogue: 12,1:23:27.40,1:23:29.23,Main,,0,0,0,,Rồi! Vào tổ rồng nà{\fscx400}-
+Dialogue: 12,1:23:27.40,1:23:29.23,Main,,0,0,0,,Rồi! Vào Tổ Rồng nà{\fscx400}-{FIX: "Tổ Rồng" ~moca}{viết hoa}
 Dialogue: 12,1:23:42.00,1:23:44.46,Main,,0,0,0,,Hay! Có thế chứ!
 Dialogue: 12,1:23:44.83,1:23:47.13,Main,,0,0,0,,Tàu đang gặp nguy.\NChúng ta rút lui thôi.
 Dialogue: 12,1:23:47.13,1:23:48.34,Main,,0,0,0,,Cứ đi tiếp.
@@ -969,7 +969,7 @@ Dialogue: 12,1:29:36.56,1:29:37.85,Main,,0,0,0,,Vậy là vì cái này à?
 Dialogue: 12,1:29:43.77,1:29:46.94,Main,,0,0,0,,Tốt quá! Trứng không vỡ.
 Dialogue: 12,1:29:46.94,1:29:48.24,Main,,0,0,0,,{\i1}Nó{\i0} không sợ người nhờ.
 Dialogue: 12,1:29:56.25,1:29:57.08,Main,,0,0,0,,Nó bảo đi theo.
-Dialogue: 12,1:29:56.25,1:29:57.08,Main,,0,0,0,,{\an8}- Đến đây.\N- Cậu hiểu tiếng chim ư?
+Comment: 12,1:29:56.25,1:29:58.16,Main,,0,0,0,,{\an8}- Đến đây.\N- Cậu hiểu tiếng chim ư?{FIX: sao nó vẫn còn ở đây :D ~moca}{ví dụ cho sự ảo ma của Netflix}
 Dialogue: 12,1:29:57.08,1:29:58.16,Main,,0,0,0,,Cậu hiểu được à?
 Dialogue: 12,1:29:58.16,1:29:59.33,Main,,0,0,0,,Cảm thấy thế thôi.
 Dialogue: 12,1:30:23.73,1:30:25.19,Main,,0,0,0,,Thành phố kìa!
@@ -1070,7 +1070,7 @@ Dialogue: 12,1:40:44.64,1:40:45.64,Main,,0,0,0,,Cái gì cơ?!
 Dialogue: 12,1:40:46.06,1:40:49.06,Main,,0,0,0,,Muska đã phá toàn bộ máy liên lạc á?
 Dialogue: 12,1:40:49.06,1:40:52.15,Main,,0,0,0,,Vâng! Chúng nhân lúc \Ntàu thiếu người canh gác.
 Dialogue: 12,1:40:52.61,1:40:55.11,Main,,0,0,0,,Nhiều lính đã bị thương nặng.{nguyên văn là "bị thương vì làm nhiệm vụ", thấy "làm nhiệm vụ" ko cần thiết lắm, với Tiếng Việt giao tiếp, "Nhiều lính đã bị thương nặng." là đủ để hiểu, ngay cả với môi trường quân đội}
-Dialogue: 12,1:40:55.11,1:40:57.41,Main,,0,0,0,,Đại tá được đã tiến vào mái vòm đen bên dưới.
+Dialogue: 12,1:40:55.11,1:40:57.41,Main,,0,0,0,,Đại tá đã tiến vào mái vòm đen bên dưới.{FIX: "được đã"? ~moca}{được đã-->đã}
 Dialogue: 12,1:40:57.78,1:40:59.16,Main,,0,0,0,,Lính của ta đã xác nhận.
 Dialogue: 12,1:41:00.03,1:41:03.41,Main,,0,0,0,,Thằng ranh con\N cuối cùng cũng lộ bản chất rồi.
 Dialogue: 12,1:41:03.41,1:41:05.41,Main,,0,0,0,,Tập hợp quân! \NTruy lùng gián điệp!
@@ -1080,7 +1080,7 @@ Dialogue: 12,1:41:09.04,1:41:11.25,Main,,0,0,0,,Được phép nổ súng \Nnế
 Dialogue: 12,1:41:11.59,1:41:13.17,Main,,0,0,0,,Tìm lối vào!
 Dialogue: 12,1:41:35.03,1:41:37.36,Main,,0,0,0,,Đại tá... chỗ này rốt cuộc là...?
 Dialogue: 12,1:41:37.36,1:41:41.16,Main,,0,0,0,,Trung tâm của Laputa.\NLâu đài phía trên cũng chỉ là đồ thừa thôi.
-Dialogue: 12,1:41:41.99,1:41:45.54,Main,,0,0,0,,Nền khoa học của Laputa được\Nkết tinh toàn bộ ở đây.
+Dialogue: 12,1:41:41.99,1:41:45.54,Main,,0,0,0,,Nền khoa học của Laputa \Nđược kết tinh toàn bộ ở đây.{FIX: của Laputa\N được kết tinh ~moca}{org: Nền khoa học của Laputa được\N kết tinh toàn bộ ở đây.}
 Dialogue: 12,1:41:51.71,1:41:53.30,Main,,0,0,0,,Các ngươi hãy đợi ở đây!
 Dialogue: 12,1:41:53.30,1:41:54.17,Main,,0,0,0,,Ơ đại tá!
 Dialogue: 12,1:41:54.17,1:41:54.67,Main,,0,0,0,,Đại tá!
@@ -1106,7 +1106,7 @@ Dialogue: 12,1:43:34.52,1:43:36.40,Main,,0,0,0,,Đọc được, đọc được
 Dialogue: 12,1:43:38.11,1:43:39.40,Main,,0,0,0,,Ông rốt cuộc là ai?
 Dialogue: 12,1:43:41.11,1:43:46.20,Main,,0,0,0,,Ta cũng có một danh xưng cổ xưa, thưa Lucita.
 Dialogue: 12,1:43:46.20,1:43:48.91,Main,,0,0,0,,Danh xưng của ta là \NRomuska Palo Ur Laputa.
-Dialogue: 12,1:43:52.04,1:43:56.42,Main,,0,0,0,,Em và đều ta có chung gốc gác hoàng tộc.
+Dialogue: 12,1:43:52.04,1:43:56.42,Main,,0,0,0,,Em và ta đều có chung gốc gác hoàng tộc.{FIX: Em và ta đều ~moca}{đều ta-->ta đều}
 Dialogue: 12,1:43:57.21,1:43:59.92,Main,,0,0,0,,Và đã tách ra làm hai \Nkhi xuống mặt đất.
 Dialogue: 12,1:44:09.89,1:44:11.56,Main,,0,0,0,,Không xước xát gì luôn.
 Dialogue: 12,1:44:11.56,1:44:13.06,Main,,0,0,0,,Chả phải chỉ là đá thôi sao?
@@ -1124,7 +1124,7 @@ Dialogue: 12,1:45:41.31,1:45:42.94,Main,,0,0,0,,Hãy yên lặng.
 Dialogue: 12,1:45:48.03,1:45:49.61,Main,,0,0,0,,Cái quái gì thế?
 Dialogue: 12,1:45:51.57,1:45:56.08,Main,,0,0,0,,Ăn nói cho cẩn thận.\NChư vị đang diện kiến vua Laputa đó.
 Dialogue: 12,1:45:56.50,1:45:58.08,Main,,0,0,0,,Ngươi điên rồi à!
-Dialogue: 12,1:45:58.08,1:46:04.34,Main,,0,0,0,,Với màn phô diễn sức mạnh của Laputa\N hãy hoan nghênh sự hồi sinh của Vương Quốc.
+Dialogue: 12,1:45:58.08,1:46:04.34,Main,,0,0,0,,Với màn phô diễn sức mạnh của Laputa,\N hãy hoan nghênh sự hồi sinh của Vương Quốc.{FIX:của Laputa,\N hãy hoan nghênh ~moca}{org: Với màn phô diễn sức mạnh của Laputa,\N hãy hoan nghênh sự hồi sinh của Vương Quốc. | thêm dấu phẩy}
 Dialogue: 12,1:46:05.13,1:46:05.84,Main,,0,1200,0,,Sheeta!
 Dialogue: 12,1:46:06.46,1:46:09.84,Main,,0,1200,0,,Hãy xem đây! \NSấm sét của Laputa!
 Dialogue: 12,1:46:10.47,1:46:11.59,Main,,0,0,0,,Sheeta!
@@ -1146,7 +1146,7 @@ Dialogue: 12,1:47:48.94,1:47:50.32,Main,,0,0,0,,Mama! Sẵn sàng bay rồi!
 Dialogue: 12,1:47:50.32,1:47:51.57,Main,,0,0,0,,Mau lên còn thoát được!
 Dialogue: 12,1:47:51.57,1:47:52.61,Main,,0,0,0,,Yên!
 Dialogue: 12,1:47:53.28,1:47:54.78,Main,,0,0,0,,Bé bé cái mồm thôi.
-Dialogue: 12,1:48:01.75,1:48:05.03,Main,,0,0,0,,Còn làm cái gì nữa không biết\N hai cái đứa này!
+Dialogue: 12,1:48:01.75,1:48:05.03,Main,,0,0,0,,Còn làm cái gì nữa không biết,\N hai cái đứa này!{FIX: không biết,\N hai cái đứa ~moca}{thêm phẩy}
 Dialogue: 12,1:48:05.03,1:48:06.25,Main,,0,0,0,,Ta bỏ lại bây giờ!
 Dialogue: 12,1:48:07.96,1:48:10.71,Main,,0,0,0,,Tốt hơn hết là đừng có chọc tức ta.
 Dialogue: 12,1:48:13.26,1:48:16.26,Main,,0,0,0,,Chúng ta sẽ còn phải chung sống ở đây\N dài dài đấy.
@@ -1189,7 +1189,7 @@ Dialogue: 12,1:52:34.85,1:52:37.11,Main,,0,0,0,,Ông gọi đây là ngai vàng 
 Dialogue: 12,1:52:37.11,1:52:39.36,Main,,0,0,0,,Đây là ngôi mộ, cho tôi và cho ông.
 Dialogue: 12,1:52:40.61,1:52:44.90,Main,,0,0,0,,Vương quốc đã diệt vong, chỉ còn nhà Vua sống sót. \NThật nực cười!
 Dialogue: 12,1:52:44.90,1:52:46.61,Main,,0,0,0,,Tôi sẽ không giao viên đá cho ông.
-Dialogue: 12,1:52:47.03,1:52:50.41,Main,,0,0,0,,Ông sẽ không thể thoát khỏi chỗ này.\N Sẽ chết cùng với tôi!
+Dialogue: 12,1:52:47.03,1:52:50.41,Main,,0,0,0,,Ông không thể thoát khỏi chỗ này đâu,\N sẽ chết cùng với tôi!{FIX: lặp từ "sẽ" ~moca}{org: Ông sẽ không thể thoát khỏi chỗ này đâu.\N Sẽ chết cùng với tôi!}
 Dialogue: 12,1:52:51.37,1:52:52.57,Main,,0,0,0,,Giờ đây...
 Dialogue: 12,1:52:52.57,1:52:55.16,Main,,0,0,0,,tôi đã hiểu tại sao Laputa lại diệt vong.
 Dialogue: 12,1:52:56.12,1:52:58.13,Main,,0,0,0,,Ở thung lũng Gondoa có một bài hát...
@@ -1215,7 +1215,7 @@ Dialogue: 12,1:53:48.63,1:53:52.72,Main,,0,0,0,,Ranh con! Để đổi lấy m�
 Dialogue: 12,1:53:53.72,1:53:57.85,Main,,0,0,0,,Hay là nhóc muốn đấu với ta\Nbằng khẩu súng pháo đó.
 Dialogue: 12,1:53:59.98,1:54:02.06,Main,,0,0,0,,Tôi muốn nói chuyện riêng với Sheeta.
 Dialogue: 12,1:54:02.06,1:54:03.27,Main,,0,0,0,,Chạy đi mà!
-Dialogue: 12,1:54:03.27,1:54:04.82,Main,,0,0,0,,Chạy đi và quăng viên đá đó.
+Dialogue: 12,1:54:03.27,1:54:04.82,Main,,0,0,0,,Chạy và quăng viên đá đó đi!{FIX: Chạy và quăng viên đá đó đi. ~moca}{Chạy đi và quăng viên đá đó!}
 Dialogue: 12,1:54:06.32,1:54:08.15,Main,,0,0,0,,Ta cho 3 phút.
 Dialogue: 12,1:54:24.25,1:54:25.30,Main,,0,0,0,,Pazu!
 Dialogue: 12,1:54:30.30,1:54:32.80,Main,,0,0,0,,Sheeta, bình tĩnh nghe tớ nói.
